@@ -5,7 +5,7 @@
 package oop.exercises;
 import java.util.Scanner;
 
-public class App 
+public class CountingNumberOfCharacters
 {
     public static void main( String[] args )
     {
